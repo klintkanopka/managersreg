@@ -1,0 +1,11 @@
+Package: managersreg
+Type: Package
+Title: Manager's Regression Analysis
+Version: 0.1.0
+Author: Klint Kanopka
+Maintainer: Klint Kanopka <kkanopka@stanford.edu>
+Description: Implements the manager's regression as referenced in this stack exchange thread: https://stats.stackexchange.com/questions/185507/what-happens-if-the-explanatory-and-response-variables-are-sorted-independently
+    Sorts all X_ik and Y_i values independently of each other, producing better regressions most of the time.
+License: MIT
+Encoding: UTF-8
+LazyData: true
