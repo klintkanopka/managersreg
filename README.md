@@ -5,3 +5,10 @@ Implements the manager's regression, producing better regressions most of the ti
 
 https://stats.stackexchange.com/questions/185507/what-happens-if-the-explanatory-and-response-variables-are-sorted-independently
 
+You can install the package using devtools:
+
+```r
+install.packages("devtools")
+library(devtools)
+install_github("klintkanopka/managersreg")
+```
